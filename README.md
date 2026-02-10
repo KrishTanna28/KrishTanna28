@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, I’m Krish - an engineering student passionate about building real-world, full-stack applications. I enjoy working with JavaScript, React, Node.js, and modern web technologies, and I focus on creating practical projects that solve everyday problems. I’m constantly improving my skills through hands-on development, learning new tools, and taking on challenges that help me grow as a developer.
-
+Hi, I’m Krish, an engineering student passionate about building full-stack, real-world applications. I enjoy working with modern web technologies and focus on creating practical, user-centered solutions. I like turning ideas into functional products, exploring new tools, and improving my skills through hands-on projects. I’m always looking for opportunities to learn, collaborate, and take on challenges that help me grow as a developer.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krishtanna28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krish-tanna-34b302301) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SirKey8554) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishttanna@gmail.com) 
