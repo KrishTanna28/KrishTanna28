@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Krish — an engineering student passionate about building real-world, full-stack applications. I enjoy working with JavaScript, React, Node.js, and modern web technologies, and I focus on creating practical projects that solve everyday problems. I’m constantly improving my skills through hands-on development, learning new tools, and taking on challenges that help me grow as a developer.
+Hi, I’m Krish - an engineering student passionate about building real-world, full-stack applications. I enjoy working with JavaScript, React, Node.js, and modern web technologies, and I focus on creating practical projects that solve everyday problems. I’m constantly improving my skills through hands-on development, learning new tools, and taking on challenges that help me grow as a developer.
 
 
 ## 🌐 Socials:
