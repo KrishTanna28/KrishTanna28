@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I’m Krish, an engineering student passionate about building full-stack, real-world applications. I enjoy working with modern web technologies and focus on creating practical, user-centered solutions. I like turning ideas into functional products, exploring new tools, and improving my skills through hands-on projects. I’m always looking for opportunities to learn, collaborate, and take on challenges that help me grow as a developer.
 
 ## 🌐 Socials:
